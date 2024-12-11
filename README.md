@@ -8,11 +8,11 @@ MIT License GitHub language count Platforms GitHub top language GitHub code size
 
 
 PLATFORM REQUIRED :
-Windows Platform Or Linux Distributions.
+Windows Platform Or Linux Distributions,
 ARCHITECTURAL REQUIREMENT :
-INTEL 32 Bit Processor Or Higher.
+INTEL 32 Bit Processor Or Higher,
 USER INTERFACE :
-Command Line Interface.
+Command Line Interface,
 TECHNOLOGY USED :
 System Programming Using C++.
 
