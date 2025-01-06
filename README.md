@@ -17,7 +17,7 @@ TECHNOLOGY USED :
 System Programming Using C++.
 
 
-ABOUT CUSTOMIZED VIRTUAL FILE SYSTEM
+ABOUT RAM_Based_File_System
 
 1. In this project, I emulate all the data structures used by the operating system to manage file system-oriented tasks.
 2. As the name suggests, it's virtual because I maintain all the records in primary storage (RAM).
