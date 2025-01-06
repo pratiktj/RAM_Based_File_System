@@ -1,6 +1,6 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                                                                   //
-// Project Name : Customized Virtual Dynamic File System                                                                             //
+// Project Name : RAM_Based_File_System                                                                             //
 //                                                                                                                                   //
 // Description : - This project provides all functionality to the user which is same as linux file system.                           //
 //               - It proveides necessary commands, system calls implementations of the file systems through customised shell.       //
